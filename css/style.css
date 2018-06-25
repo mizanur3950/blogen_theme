@@ -1,0 +1,12 @@
+body {
+    font-family: 'Lato', sans-serif;
+    outline: none;
+}
+
+.table td:first-child {
+    text-align: center;
+}
+
+.table td {
+    vertical-align: middle;
+}
